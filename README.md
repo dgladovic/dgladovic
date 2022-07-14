@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @dgladovic
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, React, Node
+- 👋 Hi, I’m @dgladovic, currently living in Belgrade, Serbia.
+- 👀 I’m interested in Web Development,
+- 🌱 I’m currently learning Javascript, React, Node.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-      linked-in
+- 📫 You can reach me here: https://www.linkedin.com/in/dimitrije-gladovic-187530184/
       
 
 <!---
